@@ -1,5 +1,5 @@
 # Fibonacci
 
-This flutter app let you know the fibonacci app
+This flutter app let you know the fibonacci number
 
 <img src="preview/screenshot1.png" width=320 height=640>    <img src="preview/screenshot2.png" width=320 height=640>
